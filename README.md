@@ -1,11 +1,9 @@
 # abnormal-detection-using-NN
 期末课程作业，基于Tensorflow神经网络对数据集进行二分类，包含特征工程，训练，测试。
 
-数据集地址：
+数据集地址：暂不公开
 
-链接: https://pan.baidu.com/s/1g82NWxNqTzSWFcwDmYLIFg 
 
-提取码: 4y2v 
 
 
 # 数据处理部分
